@@ -1,0 +1,12 @@
+{
+    "description": "Perform chrome upgrade",
+    "private": true,
+    "input_method": "powershell",
+    "parameters": {
+      "version": {
+        "description": "Please input in Chrome version number",
+        "type": "String[1]"
+      }
+    }
+  }
+  
